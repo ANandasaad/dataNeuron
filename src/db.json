@@ -1,0 +1,24 @@
+{
+  "rating": [
+    {
+      "id": "1",
+      "review": "Great product, exceeded my expectations!",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "rating": 3.2,
+      "review": "Average product, could be better."
+    },
+    {
+      "id": "3",
+      "rating": 5,
+      "review": "Excellent service and quality."
+    },
+    {
+      "id": "4",
+      "rating": 2.8,
+      "review": "Disappointed with the product, not as described."
+    }
+  ]
+}
